@@ -6,15 +6,16 @@ _Investigating suspicious Network Activity_
 
 My question:
 
-Is there unusual network activity happening on a computer, and could it be a sign of a cybersecurity threat?
+Do the network logs show any unusual activity that could indicate a cybersecurity threat? 
 
-**What is included in the investigation:**
 
-- Looking at network traffic using Wireshark.
+**What is included:**
 
-- Reviewing network logs using Splunk.
+Reviewing network logs using Splunk.
 
-- Using TCPdump to examine network information.
+Looking for unusual network connections.
 
-- Checking network connections and activity.
+Checking timestamps and IP addresses.
+
+Looking for suspicious activity in the log
 
