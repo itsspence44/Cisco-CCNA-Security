@@ -1,7 +1,7 @@
 
 **Scope**: 
 
-_Investigating suspicious Network Activity_
+_Investigating Network Logs_
 
 
 My question:
